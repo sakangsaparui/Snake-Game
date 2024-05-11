@@ -1,4 +1,4 @@
-Classic Snake Game in Java
+# Classic Snake Game in Java
 This repository implements a classic Snake game written in Java. Play by controlling a snake to eat food and grow longer, while avoiding hitting the walls or your own body.
 
 ## Features
@@ -23,9 +23,9 @@ This repository implements a classic Snake game written in Java. Play by control
 Try to beat your high score!
 
 ## This project is a great starting point for learning about:
-    - Java programming fundamentals (variables, loops, conditional statements)
-    - Object-oriented programming concepts (classes, objects)
-    - Working with graphical user interfaces (GUI) in Java using Swing
+  - Java programming fundamentals (variables, loops, conditional statements)
+  - Object-oriented programming concepts (classes, objects)
+  - Working with graphical user interfaces (GUI) in Java using Swing
 
 
 Feel free to contribute or leave feedback!
